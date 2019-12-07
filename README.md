@@ -13,6 +13,6 @@ seaborn
 
 ```bash
 pip install -r requirements.txt		# 安装依赖
-python climatechange.py				# 启动
+python climatechange.py			# 启动
 ```
 
